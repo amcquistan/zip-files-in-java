@@ -1,0 +1,7 @@
+Howdy there,
+
+I hope you are finding this "How To" article on zipping files with Java
+both fun and informative.
+
+Thanks for visiting The Coding Interface,
+Adam
